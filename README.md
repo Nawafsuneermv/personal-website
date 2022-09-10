@@ -5,4 +5,4 @@
 
 ![Screenshot 2022-09-05 143537](https://user-images.githubusercontent.com/111062573/188438907-3ed3ae84-2e62-4715-9205-ba1ad65ffb5f.png)
 
-DEMO VIEW: https://a9sayh2tnmrtsuatn7j9mq.on.drv.tw/new/www.personalwebsite/
+DEMO VIEW: https://a9sayh2tnmrtsuatn7j9mq.on.drv.tw/new/www.personal/
